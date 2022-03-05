@@ -1,0 +1,111 @@
+body {
+  background-color: #1a1a1a;
+}
+
+#right {
+  background-color: #e6e6e6;
+  width:50%;
+  float:right;
+  height:910px;
+  position:relative;right:200px;
+}
+
+#left {
+  background-color: #004080;
+  width:30%;
+  float:left;
+  height:910px;
+  color:white;
+  position:relative;left:190px;
+}
+
+
+#profile {
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+  border:3px solid black;
+  position:relative;top:10px;
+  position:relative;left:190px;
+}
+
+#profileHr {
+   width: 100%;
+   text-align: center;
+   border-bottom: 1px solid #000;
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+   position:relative;top:20px;
+}
+
+#ProfileSpan {
+    background:#001a33;
+    padding:0 10px;
+}
+
+#profileParagraph {
+  position:relative;top:20px;
+  font-size: 1.2em;
+}
+
+#contactHr{
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  position:relative;top:30px;
+}
+
+#ContactSpan {
+    background:#001a33;
+    padding:0 10px;
+}
+
+#ListContact {
+  position:relative;top:30px;
+}
+
+#img-mail {
+  width:60px;
+  height:60px;
+  position:relative;top:20px;
+}
+
+#img-contact {
+  width:60px;
+  height:60px;
+}
+
+#img-linkedin {
+  width:50px;
+  height:50px;
+}
+.contacth4 {
+  position:relative;bottom:10px;
+}
+
+#referenceHr{
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  position:relative;top:30px;
+}
+
+#referenceSpan {
+    background:#001a33;
+    padding:0 10px;
+}
+
+#referencename {
+  position:relative;top:30px;
+}
+
+#refereneceinfo {
+  position:relative;top:10px;
+}
+#refereneceinfo2 {
+  position:relative;top:-6px;
+}
